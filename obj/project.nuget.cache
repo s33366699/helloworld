@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/+/H5moSdqi8DwoooNqsFy4rEDk/lfb4xfUZbP4RN6zBla1m0a7yzCWNFyyWCBumS4GGhr+TvFBJSFROB193Eg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\s3336\\Documents\\Code\\helloworld\\helloworld.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\s3336\\.nuget\\packages\\htmlagilitypack\\1.11.38\\htmlagilitypack.1.11.38.nupkg.sha512"
+  ],
+  "logs": []
+}
